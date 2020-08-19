@@ -1,0 +1,103 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "Le mot de passe n' a pas pu être sauvegardé"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Échec de la sauvegarde"
+   },
+   "NewLoginDetectedText": {
+      "message": "Cliquez ici pour sauvegarder le mot de passe pour \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Nouveau login trouvé"
+   },
+   "NoRelatedMatches": {
+      "message": "Aucune donnée d'accès trouvée"
+   },
+   "NoSearchMatches": {
+      "message": "Aucun résultat"
+   },
+   "NoSearchQuery": {
+      "message": "Entrez plus de deux caractères"
+   },
+   "Password": {
+      "message": "Mot de passe"
+   },
+   "PasswordCreatedText": {
+      "message": "Le mot de passe a été sauvegardé avec succès"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Mot de passe sauvegardé"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "Les propriétés du mot de passe #$ID$ ne contiennent pas de données JSON valides et n'ont pas pu être traitées.",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "Impossible d'analyser les propriétés du mot de passe"
+   },
+   "PasswordRequestFailedText": {
+      "message": "La liste des mots de passe n' a pas pu être récupérée. Erreur: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "La requête Nextcloud a échoué"
+   },
+   "PasswordUpdatedText": {
+      "message": "Mot de passe mis à jour avec succès"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Mot de passe mis à jour"
+   },
+   "Save": {
+      "message": "sauvegarder"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "Le mot de passe n' a pas pu être mis à jour"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Mise à jour du mot de passe échouée"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "Cliquez ici pour mettre à jour le mot de passe pour \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Mise à jour du login trouvé"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Usager"
+   },
+   "browserActionTitle": {
+      "message": "Mots de passe"
+   },
+   "contextMenuTitle": {
+      "message": "Mots de passe"
+   },
+   "extensionDescription": {
+      "message": "Un client simple pour Nextcloud Passwords"
+   },
+   "extensionName": {
+      "message": "Nextcloud Passwords"
+   }
+}

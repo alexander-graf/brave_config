@@ -1,0 +1,363 @@
+{
+   "DescriptionAccountDeleted": {
+      "message": "This account was deleted"
+   },
+   "DescriptionAdapternextcloud": {
+      "message": "The legacy option is compatible with at least version v0.11 of the Bookmarks app. It will emulate folders using tags containing the folder path. It is not recommended to use this for new accounts."
+   },
+   "DescriptionAdapternextcloudfolders": {
+      "message": "The option 'Nextcloud Bookmarks' is compatible with at least version v0.14 of the Bookmarks app."
+   },
+   "DescriptionAdapterwebdav": {
+      "message": "The WebDAV option syncs your bookmarks by storing them in an XBEL file in the provided WebDAV share. There is no accompanying web UI for this option and you can use it with any WebDAV-compatible server."
+   },
+   "DescriptionBookmarksfile": {
+      "message": "a path to the bookmarks file relative to your WebDAV URL (all folders in the path must already exist). e.g. personal_stuff/bookmarks.xbel"
+   },
+   "DescriptionChoosefolder": {
+      "message": "Set an existing folder to sync"
+   },
+   "DescriptionFunddevelopment": {
+      "message": "I'm using this opportunity to ask you for a donation in order to support the maintenance of this project and make this endeavor more sustainable. You can find the supported payment providers below. Any amount is appreciated. Thank you!💙"
+   },
+   "DescriptionGithubsponsors": {
+      "message": "Make a regular donation via GitHub sponsors to support the project"
+   },
+   "DescriptionLiberapay": {
+      "message": "Make a regular donation via Liberapay to support the project"
+   },
+   "DescriptionLocalfolder": {
+      "message": "This is the local bookmarks folder in this browser that will be synced to the server. By default a new empty folder will be created for you in this browser, if you want to sync an existing folder, select it here. (Note: You can now sync the root folder across different browser vendors out of the box.)"
+   },
+   "DescriptionNestedSync": {
+      "message": "You can nest accounts so that a parent folder belongs to one account and a child folder to a different account. Do you want to include this account's local folder in any potential parent folder sync from a different account?"
+   },
+   "DescriptionNoAccount": {
+      "message": "Create a new account to sync your bookmarks."
+   },
+   "DescriptionOpencollective": {
+      "message": "Make a regular donation via OpenCollective to support the project"
+   },
+   "DescriptionParallelsync": {
+      "message": "Tick this box to process multiple folders in parallel in order to speed the synchronization. This feature is experimental and makes it harder to read the debug logs."
+   },
+   "DescriptionPaypal": {
+      "message": "Make a one-time donation via paypal to support the project"
+   },
+   "DescriptionRemoveaccount": {
+      "message": "Delete this account (this will not remove your bookmarks)"
+   },
+   "DescriptionReset": {
+      "message": "Reset synchronized folder to create a new one"
+   },
+   "DescriptionResetcache": {
+      "message": "Tick this box to reset the cache so that the next synchronization run is guaranteed not to delete any data and merely merges server and local bookmarks together"
+   },
+   "DescriptionServerfolder": {
+      "message": "This is the path prefix under which this account will operate on the server. E.g. if you use ''/work', all your bookmarks will be created on the server with this path prefixed to their original path (the one relative to the local folder you specified above). This allows you to separate your server bookmarks into multiple 'profiles'. Leave this empty to use no prefix at all."
+   },
+   "DescriptionSetkey": {
+      "message": "When you set a pass phrase you will have to enter this pass phrase everytime you start your browser if you want to access and synchronize your bookmarks."
+   },
+   "DescriptionStrategy": {
+      "message": "This option determines how to synchronize the bookmarks tree on the server with the one in this browser. Usually you will want to keep changes to both trees if they are compatible, but sometimes you might want to force the local version onto the server, or vice versa."
+   },
+   "DescriptionSyncinterval": {
+      "message": "The timespan between two sync runs in minutes. Default is 15 minutes."
+   },
+   "DescriptionUpdated": {
+      "message": "Congrats, the latest update of floccus has arrived on your machine!"
+   },
+   "DescriptionWebdavurl": {
+      "message": "e.g. with nextcloud: https://your-domain.com/remote.php/webdav/"
+   },
+   "Error001": {
+      "message": "E001: Folder to create in doesn't exist"
+   },
+   "Error002": {
+      "message": "E002: Bookmark to update doesn't exist anymore"
+   },
+   "Error003": {
+      "message": "E003: Folder to move out of doesn't exist. This is an anomaly. Congratulations."
+   },
+   "Error004": {
+      "message": "E004: Folder to move into doesn't exist"
+   },
+   "Error005": {
+      "message": "E005: Folder to create in doesn't exist"
+   },
+   "Error006": {
+      "message": "E006: Folder to update doesn't exist"
+   },
+   "Error007": {
+      "message": "E007: Folder to move doesn't exist"
+   },
+   "Error008": {
+      "message": "E008: Folder to move out of doesn't exist"
+   },
+   "Error009": {
+      "message": "E009: Folder to move into doesn't exist"
+   },
+   "Error010": {
+      "message": "E010: Could not find folder to order"
+   },
+   "Error011": {
+      "message": "E011: Item in folder ordering is not an actual child: $1"
+   },
+   "Error012": {
+      "message": "E012: Folder ordering is missing some of the folder's children"
+   },
+   "Error013": {
+      "message": "E013: Folder to remove doesn't exist"
+   },
+   "Error014": {
+      "message": "E014: Parent folder to remove folder from of doesn't exist"
+   },
+   "Error015": {
+      "message": "E015: Unexpected response data from server"
+   },
+   "Error016": {
+      "message": "E016: Request timed out. Check your server configuration"
+   },
+   "Error017": {
+      "message": "E017: Network error: Check your network connection and your account details"
+   },
+   "Error018": {
+      "message": "E018: Couldn't authenticate with the server"
+   },
+   "Error019": {
+      "message": "E019: HTTP status $1. Failed $2 request. Check your server configuration and log."
+   },
+   "Error020": {
+      "message": "E020: Could not parse server response. Is the bookmarks app installed on your server?"
+   },
+   "Error021": {
+      "message": "E021: Inconsistent server state. Folder is present in childorder list but not in folder tree"
+   },
+   "Error022": {
+      "message": "E022: Folder $1 supposedly contains non-existent bookmark $2"
+   },
+   "Error023": {
+      "message": "E023: Unable to clear lock file, consider deleting $1 manually."
+   },
+   "Error024": {
+      "message": "E024: HTTP status $1 while trying to determine status of lock file $2"
+   },
+   "Error025": {
+      "message": "E025: Bookmarks file setting mustn't begin with a slash: '/'"
+   },
+   "Error026": {
+      "message": "E026: HTTP status $1. Failed to fetch bookmarks"
+   },
+   "Error027": {
+      "message": "E027: Sync process was interrupted"
+   },
+   "LabelAccountDeleted": {
+      "message": "Account deleted"
+   },
+   "LabelAdapternextcloud": {
+      "message": "Nextcloud Bookmarks (legacy)"
+   },
+   "LabelAdapternextcloudfolders": {
+      "message": "Nextcloud Bookmarks"
+   },
+   "LabelAdapterwebdav": {
+      "message": "XBEL file in WebDAV share"
+   },
+   "LabelAddaccount": {
+      "message": "Add account"
+   },
+   "LabelBookmarksfile": {
+      "message": "Bookmarks file path"
+   },
+   "LabelCancel": {
+      "message": "Cancel"
+   },
+   "LabelCancelsync": {
+      "message": "Cancel sync"
+   },
+   "LabelChooseadapter": {
+      "message": "How do you want to sync?"
+   },
+   "LabelChoosefolder": {
+      "message": "Choose folder"
+   },
+   "LabelDebuglogs": {
+      "message": "Debug logs"
+   },
+   "LabelEnabled": {
+      "message": "Enabled"
+   },
+   "LabelFunddevelopment": {
+      "message": "Fund development"
+   },
+   "LabelGithubsponsors": {
+      "message": "GitHub sponsors"
+   },
+   "LabelKey": {
+      "message": "Enter your unlock passphrase"
+   },
+   "LabelKey2": {
+      "message": "Enter your passphrase a second time"
+   },
+   "LabelLiberapay": {
+      "message": "Liberapay"
+   },
+   "LabelLocalfolder": {
+      "message": "Local folder"
+   },
+   "LabelLoginFlowError": {
+      "message": "Nextcloud login flow failed."
+   },
+   "LabelLoginFlowStart": {
+      "message": "Sign in with Nextcloud login flow"
+   },
+   "LabelLoginFlowStop": {
+      "message": "Abort Nextcloud login flow"
+   },
+   "LabelNestedSync": {
+      "message": "Nested accounts"
+   },
+   "LabelNestedSyncNo": {
+      "message": "Exclude this account's local folder from other sync accounts"
+   },
+   "LabelNestedSyncYes": {
+      "message": "Include this account's local folder in other account syncs"
+   },
+   "LabelNewAccount": {
+      "message": "New Account"
+   },
+   "LabelNextcloudurl": {
+      "message": "Nextcloud URL"
+   },
+   "LabelNoAccount": {
+      "message": "No accounts here"
+   },
+   "LabelOpencollective": {
+      "message": "OpenCollective"
+   },
+   "LabelOpenintab": {
+      "message": "Open in tab"
+   },
+   "LabelOptions": {
+      "message": "Options"
+   },
+   "LabelOptionsDangerous": {
+      "message": "Dangerous actions"
+   },
+   "LabelOptionsFolderMapping": {
+      "message": "Folder mapping"
+   },
+   "LabelOptionsServerDetails": {
+      "message": "Server details"
+   },
+   "LabelOptionsSyncBehavior": {
+      "message": "Sync behavior"
+   },
+   "LabelOptionsscreen": {
+      "description": "Title of the options screen. The placeholder holds the account type.",
+      "message": "$1 options"
+   },
+   "LabelParallelsync": {
+      "message": "Speed up synchronization"
+   },
+   "LabelPassword": {
+      "message": "Password"
+   },
+   "LabelPaypal": {
+      "message": "Paypal"
+   },
+   "LabelReleaseNotes": {
+      "message": "Read release notes"
+   },
+   "LabelRemoveaccount": {
+      "message": "Remove account"
+   },
+   "LabelRemovedkey": {
+      "message": "Pass phrase removed"
+   },
+   "LabelRemovekey": {
+      "message": "Remove pass phrase"
+   },
+   "LabelReset": {
+      "message": "Reset"
+   },
+   "LabelResetCache": {
+      "message": "Trigger sync from scratch"
+   },
+   "LabelRootfolder": {
+      "message": "Root folder"
+   },
+   "LabelSave": {
+      "message": "Save"
+   },
+   "LabelSecurecredentials": {
+      "message": "Secure your credentials"
+   },
+   "LabelSecuredcredentials": {
+      "message": "Your credentials are secure"
+   },
+   "LabelSelect": {
+      "message": "Select"
+   },
+   "LabelServerfolder": {
+      "message": "Server folder"
+   },
+   "LabelSetkey": {
+      "message": "Set a pass phrase for floccus"
+   },
+   "LabelStrategy": {
+      "message": "Synchronization strategy"
+   },
+   "LabelStrategydefault": {
+      "message": "Merge local and remote changes (recommended)"
+   },
+   "LabelStrategyoverwrite": {
+      "message": "Always overwrite and revert remote changes"
+   },
+   "LabelStrategyslave": {
+      "message": "Always overwrite and revert local changes"
+   },
+   "LabelSyncinterval": {
+      "message": "Synchronization interval"
+   },
+   "LabelSyncnow": {
+      "message": "Sync now"
+   },
+   "LabelUnlock": {
+      "message": "Unlock floccus"
+   },
+   "LabelUntitledfolder": {
+      "message": "Untitled folder"
+   },
+   "LabelUpdated": {
+      "message": "Floccus was updated"
+   },
+   "LabelUsername": {
+      "message": "Username"
+   },
+   "LabelWebdavurl": {
+      "message": "WebDAV URL"
+   },
+   "LegacyAdapterDeprecation": {
+      "message": "This legacy account type is deprecated and will soon be removed. Please switch to the new nextcloud sync method. Improved performance and accuracy await you."
+   },
+   "StatusAllgood": {
+      "message": "All good"
+   },
+   "StatusDisabled": {
+      "message": "Disabled"
+   },
+   "StatusError": {
+      "message": "Error"
+   },
+   "StatusLastsynced": {
+      "message": "Last synchronized: $1 ago"
+   },
+   "StatusNeversynced": {
+      "message": "Not synchronized, yet"
+   },
+   "StatusSyncing": {
+      "message": "Syncing"
+   }
+}

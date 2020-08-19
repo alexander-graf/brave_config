@@ -1,0 +1,39 @@
+{
+   "applications": {
+      "gecko": {
+         "id": "floccus@handmadeideas.org",
+         "strict_min_version": "57.0"
+      }
+   },
+   "background": {
+      "page": "dist/html/background.html"
+   },
+   "browser_action": {
+      "browser_style": false,
+      "chrome_style": false,
+      "default_icon": {
+         "48": "icons/logo.png"
+      },
+      "default_popup": "dist/html/options.html",
+      "default_title": "Open Floccus options"
+   },
+   "default_locale": "en",
+   "description": "Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)",
+   "icons": {
+      "128": "icons/logo_128.png",
+      "48": "icons/logo.png",
+      "64": "icons/logo_64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhV577hk+UYurcLgRCzh9QNTs9bfmvUoRdHzneepg2kakWS/jY1evKhYFoL+WucmmMwGsxbms+tHz+h49TlqQfHj8SmpERkpQxkLR7j6uIX5239ry1s3t+wdkqHh0V7ZLDajd7beHkRyAFG8bapeiu8tZC0DyeEx9Quoeicipf0G97DK5CAyyK+F9RdJw6h1u/NP9/NSD79NqTRQ3pEMhTghBx/Ck2Ix1GadT9fN5K5WMkEDlFqk9BhIO135aKHK6Z17cT0wdPbp5Mb7eUKQTDHoWxYR4A26n59sFGtqz8nJWiTYOtKg4osMFPkLv0oNsVdKal6n2gXzCtaPMX+ttJQIDAQAB",
+   "manifest_version": 2,
+   "name": "floccus bookmarks sync",
+   "options_ui": {
+      "browser_style": false,
+      "chrome_style": false,
+      "page": "dist/html/options.html"
+   },
+   "permissions": [ "https://*/", "http://*/", "alarms", "bookmarks", "storage", "unlimitedStorage" ],
+   "short_name": "floccus",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.2.6"
+}

@@ -1,0 +1,103 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "Non è stato possibile salvare la password"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Salva password non riuscita"
+   },
+   "NewLoginDetectedText": {
+      "message": "Clicca qui per salvare la password per \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Nuovo login trovato"
+   },
+   "NoRelatedMatches": {
+      "message": "Nessun accesso trovato"
+   },
+   "NoSearchMatches": {
+      "message": "Nessuna partita"
+   },
+   "NoSearchQuery": {
+      "message": "Digitare più di due caratteri"
+   },
+   "Password": {
+      "message": "Parola d'ordine"
+   },
+   "PasswordCreatedText": {
+      "message": "La password è stata memorizzata con successo"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Password salvata"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "The properties of password #$ID$ do not contain valid JSON data and could not be processed",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "Non è stato possibile analizzare le proprietà della password"
+   },
+   "PasswordRequestFailedText": {
+      "message": "Non è stato possibile recuperare l' elenco password. Errore: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "Richiesta password Nextcloud fallita"
+   },
+   "PasswordUpdatedText": {
+      "message": "La password è stata aggiornata con successo"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Password aggiornata"
+   },
+   "Save": {
+      "message": "Memorizzare"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "La password non può essere aggiornata"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Aggiorna password non riuscita"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "Clicca qui per aggiornare la password per \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Accesso aggiornato trovato"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Utente"
+   },
+   "browserActionTitle": {
+      "message": "Parola d'ordine"
+   },
+   "contextMenuTitle": {
+      "message": "Parola d'ordine"
+   },
+   "extensionDescription": {
+      "message": "Un semplice client per Nextcloud Passwords"
+   },
+   "extensionName": {
+      "message": "Nextcloud Passwords"
+   }
+}

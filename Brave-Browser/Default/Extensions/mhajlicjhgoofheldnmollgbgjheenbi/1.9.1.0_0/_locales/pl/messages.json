@@ -1,0 +1,103 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "Hasło nie mogło zostać zapisane"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Zapisanie hasła nie powiodło się"
+   },
+   "NewLoginDetectedText": {
+      "message": "Kliknij tutaj, aby zapisać hasło dla \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Znaleziono nowy identyfikator"
+   },
+   "NoRelatedMatches": {
+      "message": "Nie znaleziono wyników"
+   },
+   "NoSearchMatches": {
+      "message": "Nie znaleziono wyników"
+   },
+   "NoSearchQuery": {
+      "message": "Wpisz więcej niż dwa znaki"
+   },
+   "Password": {
+      "message": "Hasło"
+   },
+   "PasswordCreatedText": {
+      "message": "Hasło zostało zapisane"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Hasło zapisane"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "Właściwości hasła #$ID$ nie zawierają ważnych danych JSON i nie mogą zostać przetworzone.",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "Właściwości hasła nie mogły zostać odczytane"
+   },
+   "PasswordRequestFailedText": {
+      "message": "Lista haseł nie mogła zostać wyszukana.\nBłąd: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "Zapytanie o hasło w usłudze Nextcloud nie powiodło się"
+   },
+   "PasswordUpdatedText": {
+      "message": "Hasło zaktualizowane z powodzeniem"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Hasło zaktualizowane"
+   },
+   "Save": {
+      "message": "Zapisz"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "Hasło nie mogło zostać zaktualizowane"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Aktualizacja hasła nie powiodła się"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "Kliknij tutaj, aby zaktualizować hasło dla \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Znaleziono uaktualniony identyfikator"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Użytkownik"
+   },
+   "browserActionTitle": {
+      "message": "Hasła"
+   },
+   "contextMenuTitle": {
+      "message": "Hasła"
+   },
+   "extensionDescription": {
+      "message": "Klient aplikacji Nextcloud Passwords."
+   },
+   "extensionName": {
+      "message": "Nextcloud Passwords"
+   }
+}

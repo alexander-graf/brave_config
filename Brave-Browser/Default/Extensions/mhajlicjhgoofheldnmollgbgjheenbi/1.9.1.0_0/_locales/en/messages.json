@@ -1,0 +1,178 @@
+{
+   "ApiLogin200": {
+      "description": "Error text when an api request could not be decoded",
+      "message": "URL invalid or API disabled"
+   },
+   "ApiLogin401": {
+      "description": "Error text when an api request got a 401 Unauthorized response",
+      "message": "Invalid user credentials"
+   },
+   "ApiLogin403": {
+      "description": "Error text when an api request got a 403 Forbidden response",
+      "message": "Access denied"
+   },
+   "ApiLogin404": {
+      "description": "Error text when an api request got a 404 Not Found response",
+      "message": "URL is invalid"
+   },
+   "ApiLogin500": {
+      "description": "Error text when an api request got a 50x Internal Server Error response",
+      "message": "Server crashed during request"
+   },
+   "ApiLoginGeneric": {
+      "description": "Generic error message for failed requests",
+      "message": "Http Error $STATUS$: $MESSAGE$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "HTTP status text"
+         },
+         "status": {
+            "content": "$1",
+            "example": "HTTP status code"
+         }
+      }
+   },
+   "CreatePasswordFailedText": {
+      "description": "Notification text when saving a password failed",
+      "message": "The password could not be saved"
+   },
+   "CreatePasswordFailedTitle": {
+      "description": "Notification title when saving a password failed",
+      "message": "Save password failed"
+   },
+   "DarkMode": {
+      "description": "Lable of the Dark Mode setting",
+      "message": "Dark Mode"
+   },
+   "NewLoginDetectedText": {
+      "description": "Notification text when a new login is detected",
+      "message": "Click here to save the password for \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1",
+            "example": "username"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "description": "Notification title when a new login is detected",
+      "message": "New login found"
+   },
+   "NoRelatedMatches": {
+      "description": "Shown when the related page did not find any results",
+      "message": "No logins found"
+   },
+   "NoSearchMatches": {
+      "description": "Shown when the search did not find any results",
+      "message": "No matches"
+   },
+   "NoSearchQuery": {
+      "description": "Shown when the search query is empty",
+      "message": "Type more than two characters"
+   },
+   "Password": {
+      "message": "Password"
+   },
+   "PasswordCreatedText": {
+      "description": "Notification text when a password was saved",
+      "message": "The password was stored sucessfully"
+   },
+   "PasswordCreatedTitle": {
+      "description": "Notification title when a password was saved",
+      "message": "Password saved"
+   },
+   "PasswordEncodingFailedText": {
+      "description": "Notification text when the password properties can not be parsed",
+      "message": "The properties of password #$ID$ do not contain valid JSON data and could not be processed",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "description": "Notification title when the password properties can not be parsed",
+      "message": "Could not parse password properties"
+   },
+   "PasswordRequestFailedText": {
+      "description": "Notification text when the password request fails",
+      "message": "The password list could not be retrieved.\nError: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Unknown Error"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "description": "Notification title when the password request fails",
+      "message": "Nextcloud password request failed"
+   },
+   "PasswordUpdatedText": {
+      "description": "Notification text when a password was updated",
+      "message": "The password was updated sucessfully"
+   },
+   "PasswordUpdatedTitle": {
+      "description": "Notification title when a password was updated",
+      "message": "Password updated"
+   },
+   "Save": {
+      "message": "Save"
+   },
+   "SettingsInvalidUrl": {
+      "description": "Generic error message for failed requests",
+      "message": "The url $URL$ seems to be invalid.\n\n If the url of the app is\nhttps://example.com/index.php/apps/passwords\nyou need to enter\nhttps://example.com\n\nIf the url of the app is\nhttps://example.com/nextcloud/index.php/apps/passwords\nyou need to enter\nhttps://example.com/nextcloud",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "The user input"
+         }
+      }
+   },
+   "UpdatePasswordFailedText": {
+      "description": "Notification text when updating a password failed",
+      "message": "The password could not be updated"
+   },
+   "UpdatePasswordFailedTitle": {
+      "description": "Notification title when updating a password failed",
+      "message": "Update password failed"
+   },
+   "UpdatedLoginDetectedText": {
+      "description": "Notification text when an updated login is detected",
+      "message": "Click here to update the password for \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1",
+            "example": "username"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "description": "Notification title when an updated login is detected",
+      "message": "Updated login found"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "User"
+   },
+   "browserActionTitle": {
+      "description": "Title of the button in the browser bar",
+      "message": "Passwords"
+   },
+   "contextMenuTitle": {
+      "description": "Title of the context menu item",
+      "message": "Passwords"
+   },
+   "extensionDescription": {
+      "description": "Description of the extension.",
+      "message": "A simple client for the Nextcloud Passwords app"
+   },
+   "extensionName": {
+      "description": "Name of the extension.",
+      "message": "Nextcloud Passwords"
+   }
+}

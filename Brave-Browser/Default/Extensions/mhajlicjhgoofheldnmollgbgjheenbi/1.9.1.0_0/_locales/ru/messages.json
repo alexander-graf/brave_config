@@ -1,0 +1,106 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "Пароль не может быть сохранен"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Ошибка при сохранении"
+   },
+   "DarkMode": {
+      "message": "Темная тема"
+   },
+   "NewLoginDetectedText": {
+      "message": "Нажмите здесь чтобы сохранить пароль для \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Обнаружен новый логин"
+   },
+   "NoRelatedMatches": {
+      "message": "Логинов не найдено"
+   },
+   "NoSearchMatches": {
+      "message": "Ничего не найдено"
+   },
+   "NoSearchQuery": {
+      "message": "Введите больше 2-х символов"
+   },
+   "Password": {
+      "message": "Пароль"
+   },
+   "PasswordCreatedText": {
+      "message": "Пароль был успешно сохранен"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Пароль сохранен"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "Пароль #$ID$ не может быть обработан, поскольку имеет неправильный JSON формат",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "Невозможно распознать пароль"
+   },
+   "PasswordRequestFailedText": {
+      "message": "Невозможно получить список паролей.\nОшибка: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "Неудалось запросить пароль из Nextcloud"
+   },
+   "PasswordUpdatedText": {
+      "message": "Пароль успешно обновлен"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Пароль обновлен"
+   },
+   "Save": {
+      "message": "Сохранить"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "Пароль не может быть обновлен"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Ошибка при обновлении"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "Нажмите здесь чтобы обновить пароль для \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Обнаружено обновление логина"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Логин"
+   },
+   "browserActionTitle": {
+      "message": "Пароли"
+   },
+   "contextMenuTitle": {
+      "message": "Пароли"
+   },
+   "extensionDescription": {
+      "message": "Простой клиент для приложения Пароли в Nextcloud"
+   },
+   "extensionName": {
+      "message": "Пароли Nextcloud"
+   }
+}

@@ -1,0 +1,106 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "Parola kaydedilemedi"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Parolayı kaydetme başarısız oldu"
+   },
+   "DarkMode": {
+      "message": "Karanlık Mod"
+   },
+   "NewLoginDetectedText": {
+      "message": "\"$USER$\" için parolayı kaydetmek üzere buraya tıklayın",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Yeni parola bulundu"
+   },
+   "NoRelatedMatches": {
+      "message": "Hiç parola bulunamadı"
+   },
+   "NoSearchMatches": {
+      "message": "Eşleşme yok"
+   },
+   "NoSearchQuery": {
+      "message": "İkiden fazla karakter yazın"
+   },
+   "Password": {
+      "message": "Parola"
+   },
+   "PasswordCreatedText": {
+      "message": "Parola başarıyla saklandı"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Parola kaydedildi"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "#$ID$ parolasının özellikleri geçerli JSON verileri içermiyor ve işlenemiyor",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "Parola özellikleri ayrıştırılamadı"
+   },
+   "PasswordRequestFailedText": {
+      "message": "Parola listesi alınamadı.\nHata: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "Nextcloud parola isteği başarısız oldu"
+   },
+   "PasswordUpdatedText": {
+      "message": "Parola başarıyla güncellendi"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Parola güncellendi"
+   },
+   "Save": {
+      "message": "Kaydet"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "Parola güncellenemedi"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Parola güncelleme başarısız oldu"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "\"$USER$\" parolasını güncellemek için buraya tıklayın",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Güncellenmiş parola bulundu"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Kullanıcı"
+   },
+   "browserActionTitle": {
+      "message": "Parolalar"
+   },
+   "contextMenuTitle": {
+      "message": "Parolalar"
+   },
+   "extensionDescription": {
+      "message": "Nextcloud Parolalar uygulaması için basit bir istemci"
+   },
+   "extensionName": {
+      "message": "Nextcloud Parolalar"
+   }
+}

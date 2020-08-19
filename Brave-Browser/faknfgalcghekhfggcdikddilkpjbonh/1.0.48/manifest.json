@@ -1,0 +1,7 @@
+{
+   "description": "Brave Ad Block Updater extension",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu1CpR7Asj+2wl/1vM39WGUrHQ6vT+nuo+XSL7VzTaxW7g7el5lUC2X9MaaynfK7gOblr5Wnf/mjSJJZA57mxogjOCPP8lF0c7sOEgeO5L6hnDGB7sonCEFpHnBEn8VOZDvmqEb++AiXUPBFSnAOt4Mouck5CY80N6Sqbt4cxUBSof/NsGHZiTvCN7fJpW4ajLOtbWhCAmBhdG0VHatBG+Et/Z6yQtxEYQixKQNHJljiq55MzuE2jfGOZ8MAjyQdstF+GGfF6WPqnR5fd1rECK3OsI8zV9OOLPkjKrKEnlMsaMFFFU0T7Ly1UALehlWXtunelzq1mGvVS7vV+5aVR/QIDAQAB",
+   "manifest_version": 2,
+   "name": "Brave Ad Block Updater (EasyList Germany)",
+   "version": "1.0.48"
+}

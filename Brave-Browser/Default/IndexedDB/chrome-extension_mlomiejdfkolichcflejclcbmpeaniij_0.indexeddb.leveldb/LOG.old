@@ -1,0 +1,14 @@
+2020/08/18-17:34:19.367 50d Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/18-17:34:19.367 50d Recovering log #19
+2020/08/18-17:34:19.370 50d Reusing old log /home/user/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/000019.log 
+2020/08/18-17:34:19.370 50d Delete type=2 #17
+2020/08/18-17:34:19.459 55d Level-0 table #24: started
+2020/08/18-17:34:19.484 55d Level-0 table #24: 61555 bytes OK
+2020/08/18-17:34:19.488 55d Delete type=0 #19
+2020/08/18-17:34:19.488 55d Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x01\x02\x01\x03\x00f\x00o\x00o' @ 18377 : 1
+2020/08/18-17:34:19.488 55d Compacting 1@0 + 1@1 files
+2020/08/18-17:34:19.576 55d Generated table #25@0: 9090 keys, 1498473 bytes
+2020/08/18-17:34:19.576 55d Compacted 1@0 + 1@1 files => 1498473 bytes
+2020/08/18-17:34:19.580 55d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/18-17:34:19.580 55d Delete type=2 #24
+2020/08/18-17:34:19.580 55d Manual compaction at level-0 from '\x00\x17\x01\x02\x01\x03\x00f\x00o\x00o' @ 18377 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)

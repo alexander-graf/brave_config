@@ -1,0 +1,40 @@
+{
+   "checksum": "c6ced935212a542840ed28a84536a79e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13242240659384587",
+            "guid": "5f75234c-0404-4a75-9e4a-948c6b1f5a33",
+            "id": "5",
+            "name": "– alexander-graf.de",
+            "type": "url",
+            "url": "http://alexander-graf.de/"
+         } ],
+         "date_added": "13242240644639522",
+         "date_modified": "13242240659384587",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Lesezeichen",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13242240644639533",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13242240644639537",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

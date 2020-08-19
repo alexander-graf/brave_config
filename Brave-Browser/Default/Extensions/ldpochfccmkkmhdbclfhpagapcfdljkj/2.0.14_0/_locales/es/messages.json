@@ -1,0 +1,70 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label.",
+      "message": "Avanzado"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Cifra de inyecciones de fuentes de Redes de Entrega de Contenido desde instalación."
+   },
+   "amountInjectedTitle": {
+      "description": "Amount injected title.",
+      "message": "Contador de recursos inyectados localmente"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Cancelar las peticiones interceptadas cuando el recurso requerido no se encuentra localmente."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title.",
+      "message": "Bloquear peticiones de fuentes faltantes"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Impedir que las peticiones no permitidas se escapen hacia redes de distribución."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title.",
+      "message": "Deshabilitar la captura previa de enlaces"
+   },
+   "disableProtectionTitle": {
+      "description": "Disable protection title.",
+      "message": "Desactivar protección en este sitio"
+   },
+   "enableProtectionTitle": {
+      "description": "Enable protection title.",
+      "message": "Activar protección"
+   },
+   "extensionDescription": {
+      "description": "Extension description.",
+      "message": "Protege contra el rastreo con la entrega centralizada y «gratuita» de contenido."
+   },
+   "optionsTitle": {
+      "description": "Options title.",
+      "message": "Opciones"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Mostrar el número de recursos inyectados en el icono de extensión."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title.",
+      "message": "Mostrar el conteo de inyecciones en el icono"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Borrar datos sensibles de solicitudes CDN autorizadas para mejorar la privacidad."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title.",
+      "message": "Remover metadatos de las solicitudes permitidas"
+   },
+   "whitelistedDomainsDescription": {
+      "description": "Whitelisted domains description.",
+      "message": "Ingresa los dominios que serán ignorados. Separa múltiples entradas con punto y coma (;)."
+   },
+   "whitelistedDomainsTitle": {
+      "description": "Whitelisted domains title.",
+      "message": "Excluir dominios de inspecciones"
+   }
+}

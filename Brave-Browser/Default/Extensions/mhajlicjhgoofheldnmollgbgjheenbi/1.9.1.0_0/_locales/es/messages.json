@@ -1,0 +1,103 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "La contraseña no se ha podido guardar"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Guardar contraseña fallida"
+   },
+   "NewLoginDetectedText": {
+      "message": "Haga clic aquí para guardar la contraseña de \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Nuevo login encontrado"
+   },
+   "NoRelatedMatches": {
+      "message": "No se han encontrado logins"
+   },
+   "NoSearchMatches": {
+      "message": "No hay coincidencias"
+   },
+   "NoSearchQuery": {
+      "message": "Escribe más de dos caracteres"
+   },
+   "Password": {
+      "message": "Contraseña"
+   },
+   "PasswordCreatedText": {
+      "message": "La contraseña se ha guardado correctamente"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Contraseña guardada"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "Las propiedades de la contraseña #$ID$ no contienen datos JSON válidos y no pueden ser procesados",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "No pudo analizar las propiedades de la contraseña"
+   },
+   "PasswordRequestFailedText": {
+      "message": "La lista de contraseñas no se pudo recuperar. Error: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "Falló la solicitud de contraseña Nextcloud"
+   },
+   "PasswordUpdatedText": {
+      "message": "La contraseña se ha actualizado correctamente"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Contraseña actualizada"
+   },
+   "Save": {
+      "message": "Sava"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "La contraseña no se ha podido actualizar"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Actualizar contraseña fallida"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "Click here to update the password for \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Inicio de sesión actualizado encontrado"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Usuario"
+   },
+   "browserActionTitle": {
+      "message": "Contraseñas"
+   },
+   "contextMenuTitle": {
+      "message": "Contraseñas"
+   },
+   "extensionDescription": {
+      "message": "Un cliente simple para Nextcloud Passwords"
+   },
+   "extensionName": {
+      "message": "Nextcloud Passwords"
+   }
+}

@@ -1,0 +1,106 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "Nepodařilo se uložit heslo"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Heslo se neuložilo"
+   },
+   "DarkMode": {
+      "message": "Tmavý režim"
+   },
+   "NewLoginDetectedText": {
+      "message": "Klikni zde pro uložení hesla pro \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Nové přihlášení detekováno"
+   },
+   "NoRelatedMatches": {
+      "message": "Nenalezeny žádné údaje"
+   },
+   "NoSearchMatches": {
+      "message": "Žádná shoda"
+   },
+   "NoSearchQuery": {
+      "message": "Napište alespoň 3 znaky"
+   },
+   "Password": {
+      "message": "Heslo"
+   },
+   "PasswordCreatedText": {
+      "message": "Heslo bylo uloženo úspěšně"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Heslo uloženo"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "Údaje #$ID$ neobsahují validní JSON data a proto nemohly být zpracovány.",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "Nepodařilo se zpracovat údaje"
+   },
+   "PasswordRequestFailedText": {
+      "message": "Seznam údajů se nepodařilo stáhnout.\nChyba: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "Požadavek selhal"
+   },
+   "PasswordUpdatedText": {
+      "message": "Heslo bylo aktualizováno úspěšně"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Heslo aktualizováno"
+   },
+   "Save": {
+      "message": "Uložit"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "Nepodařilo se uložit heslo"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Heslo nezměněno"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "Klikni zde pro aktualizaci hesla pro \"$USER$\"",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Aktualizované údaje byly detekovány"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Uživatel"
+   },
+   "browserActionTitle": {
+      "message": "Hesla"
+   },
+   "contextMenuTitle": {
+      "message": "Hesla"
+   },
+   "extensionDescription": {
+      "message": "Klient pro aplikaci Nextcloud Passwords."
+   },
+   "extensionName": {
+      "message": "Nextcloud Passwords"
+   }
+}

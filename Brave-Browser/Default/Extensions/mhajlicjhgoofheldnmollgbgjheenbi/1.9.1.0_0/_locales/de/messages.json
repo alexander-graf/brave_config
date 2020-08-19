@@ -1,0 +1,106 @@
+{
+   "CreatePasswordFailedText": {
+      "message": "Das Passwort konnte nicht gespeichert werden"
+   },
+   "CreatePasswordFailedTitle": {
+      "message": "Speichern fehlgeschlagen"
+   },
+   "DarkMode": {
+      "message": "Dunkler Modus"
+   },
+   "NewLoginDetectedText": {
+      "message": "Klicken Sie hier, um das Passwort für \"$USER$\" zu speichern",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "NewLoginDetectedTitle": {
+      "message": "Neue Logindaten erkannt"
+   },
+   "NoRelatedMatches": {
+      "message": "Keine Logindaten gefunden"
+   },
+   "NoSearchMatches": {
+      "message": "Keine Treffer"
+   },
+   "NoSearchQuery": {
+      "message": "Mindestens drei Zeichen eingeben"
+   },
+   "Password": {
+      "message": "Passwort"
+   },
+   "PasswordCreatedText": {
+      "message": "Das Passwort wurde erfolgreich gespeichert"
+   },
+   "PasswordCreatedTitle": {
+      "message": "Passwort gespeichert"
+   },
+   "PasswordEncodingFailedText": {
+      "message": "Die Attribute des Passworts mit der ID #$ID$ sind kein valides JSON und können daher nicht verarbeitet werden",
+      "placeholders": {
+         "id": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordEncodingFailedTitle": {
+      "message": "Invalide Passwortattribute gefunden"
+   },
+   "PasswordRequestFailedText": {
+      "message": "Die Passwortliste konnte nicht abgerufen werden. Fehler: $ERROR$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "PasswordRequestFailedTitle": {
+      "message": "Nextcloud Password Abfrage fehlgeschlagen"
+   },
+   "PasswordUpdatedText": {
+      "message": "Das Passwort wurde erfolgreich aktualisiert"
+   },
+   "PasswordUpdatedTitle": {
+      "message": "Passwort aktualisiert"
+   },
+   "Save": {
+      "message": "Speichern"
+   },
+   "UpdatePasswordFailedText": {
+      "message": "Das Passwort konnte nicht aktualisiert werden"
+   },
+   "UpdatePasswordFailedTitle": {
+      "message": "Aktualisieren fehlgeschlagen"
+   },
+   "UpdatedLoginDetectedText": {
+      "message": "Klicken Sie hier, um das Passwort für \"$USER$\" zu aktualisieren",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "UpdatedLoginDetectedTitle": {
+      "message": "Aktualisierte Logindaten erkannt"
+   },
+   "Url": {
+      "message": "Url"
+   },
+   "User": {
+      "message": "Benutzer"
+   },
+   "browserActionTitle": {
+      "message": "Passwörter"
+   },
+   "contextMenuTitle": {
+      "message": "Passwörter"
+   },
+   "extensionDescription": {
+      "message": "Ein einfacher Client für die Nextcloud Passwords App"
+   },
+   "extensionName": {
+      "message": "Nextcloud Passwords"
+   }
+}
